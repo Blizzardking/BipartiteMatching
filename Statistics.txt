@@ -1,0 +1,21 @@
+Running results of different implementation of ADT dictionary.
+
+1.For test file "matching-1k.txt"
+
+Hopcraft-Karp algorithm 
+Sample output:994
+Elapsed time(ms):72
+
+
+2.For test file "matching-10k.txt"
+
+Hopcraft-Karp algorithm
+Sample output:9924
+Elapsed time(ms):12674
+
+
+3.For test file "matching-100k.txt"
+
+Hopcraft-Karp algorithm
+Sample output:99238
+Elapsed time(ms):1634992
