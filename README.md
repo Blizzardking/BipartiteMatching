@@ -1,8 +1,8 @@
-/** 
+* Author: Renkai Ji
 * CS6301, Project 7
 * Section 014
 * 
-*/
+
 
 
 I. Purpose
